@@ -1,4 +1,4 @@
-# student-manager
+# vuex-sample
 
 ## Project setup
 ```
